@@ -1,38 +1,25 @@
 ---
-title: Hello World
+title: 你好，lyxuaner
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+{% meting "422428548" "netease" "song" "autoplay" "mutex:false" %}
 
-### Create a new post
+## 你好，lyxuaner
 
-``` bash
-$ hexo new "My New Post"
-```
+第一次在网上写生活博客，这感觉好奇妙。对，还是一边听着 [Landing Guy](https://music.163.com/#/song?id=422428548)，一边写。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+我现在在单位加班呢，要准备618大促。😭️😭️
 
-### Run server
+**可是我想你啦。**
 
-``` bash
-$ hexo server
-```
+想和你在西湖走走停停，想和你在西贝吃吃喝喝，想和你在江边吹吹凉风，想趁着夕阳的时候偷偷亲你一下。🤣🤣
 
-More info: [Server](https://hexo.io/docs/server.html)
+想和你做好多好多事，聊聊过往，聊聊将来，聊聊人生，聊聊理想。
 
-### Generate static files
+诶，巧了，这篇文档文件的名字也叫 “hello-world” ，或许冥冥中自有天意吧。
 
-``` bash
-$ hexo generate
-```
+**Oh,it is magic. oh,that is magic.**
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+生活奇妙无比，让我遇见了你；生活光怪迷离，让我遇见了你。
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+感谢生活，让我遇见了你。
