@@ -18,7 +18,9 @@ title: 你好，lyxuaner
 
 诶，巧了，这篇文档文件的名字也叫 “hello-world” ，或许冥冥中自有天意吧。
 
-**Oh,it is magic. oh,that is magic.**
+![](hello-world.png)
+
+**Oh,it is magic. oh, that is magic.**
 
 生活奇妙无比，让我遇见了你；生活光怪迷离，让我遇见了你。
 
