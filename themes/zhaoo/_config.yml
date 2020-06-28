@@ -9,11 +9,11 @@ color:
 
 # Favicon
 favicon:
-  small: /life/images/icons/favicon-16x16.png
-  medium: /life/images/icons/favicon-32x32.png
-  apple_touch_icon: /life/images/icons/apple-touch-icon.png
-  safari_pinned_tab: /life/images/icons/favicon-144x144.png
-  msapplication: /life/images/icons/favicon-144x144.png
+  small: /images/icons/favicon-16x16.png
+  medium: /images/icons/favicon-32x32.png
+  apple_touch_icon: /images/icons/apple-touch-icon.png
+  safari_pinned_tab: /images/icons/favicon-144x144.png
+  msapplication: /images/icons/favicon-144x144.png
 
 # Keywords
 keywords: zhaoo, hexo-theme-zhaoo
@@ -57,7 +57,7 @@ fab:
 # --------------------------------------------------
 
 # Post image
-post_image: /images/theme/post-image.jpg
+post_image: /life/images/theme/post-image.jpg
 
 # Donate
 donate:
