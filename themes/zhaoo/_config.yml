@@ -24,7 +24,7 @@ preview:
   model: wave  #cloud
   welcome_image: /life/images/theme/welcome-image.jpg
   motto:
-    default: 画一个姑娘陪着我，我们一起生来一起活。
+    default: But I see you.That is crazy.
     api:  #'http://localhost:3000/api/motto'
 
 # Menu
@@ -37,7 +37,7 @@ menu:
   about: /about || 关于
 
 # Copyright
-copyright: <p>Copyright© 2019-2020 | <a target="_blank" href="https://www.izhaoo.com">zhaoo</a> .AllRightsReserved</p>
+copyright: <p>Copyright© 2019-2020 | Arirus & Xuaner.AllRightsReserved</p>
 
 # Social
 social:
